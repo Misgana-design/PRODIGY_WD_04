@@ -18,7 +18,7 @@ A weather application that fetches real-time weather data using APIs.
 Weather API (OpenWeatherMap)
 
 ### How to Use
-*Clone the repository:* git clone [repository URL]
+*Clone the repository:* git clone https://github.com/Misgana-design/PRODIGY_WD_04
 
 Open index.html in your browser.
 
