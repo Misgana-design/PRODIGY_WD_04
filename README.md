@@ -25,7 +25,7 @@ Open index.html in your browser.
 Enter a city name to get the current weather.
 
 ### Live Demo
-Check out the live demo here: [Insert Live Demo Link]
+Check out the live demo here: https://misgana-design.github.io/PRODIGY_WD_04/
 
 
 ## Acknowledgments
