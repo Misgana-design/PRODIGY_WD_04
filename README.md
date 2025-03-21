@@ -15,7 +15,7 @@ A weather application that fetches real-time weather data using APIs.
 
 **JavaScript**
 
-Weather API (OpenWeatherMap)
+**Weather API (OpenWeatherMap)**
 
 ### How to Use
 *Clone the repository:* git clone https://github.com/Misgana-design/PRODIGY_WD_04
